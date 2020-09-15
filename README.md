@@ -1,3 +1,3 @@
 # Quotes
 For demo Go for the link 
-carry4-quotes.netlify.app
+https://carry4-quotes.netlify.app/
